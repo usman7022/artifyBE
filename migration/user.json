@@ -1,0 +1,29 @@
+[
+{
+    "role": "superAdminUser",
+    "name": "superAdmin",
+    "email": "sh.hafizhasnain@gmail.com",
+    "phone": "123-456-7890",
+    "password": "1234567890",
+    "verified":true,
+      "passwordConfirm": "1234567890"
+  },
+ {
+    "role": "subStoreUser",
+    "name": "subStore",
+    "email": "sh.hafizhasnain@gmail.com",
+    "phone": "123-456-7890",
+    "password": "1234567890",
+    "verified":true,
+    "passwordConfirm": "1234567890"
+  },
+  {
+    "role": "user",
+    "name": "Hafiz Hasnain",
+    "email": "sh.hafizhasnain@gmail.com",
+    "phone": "123-456-7890",
+    "password": "1234567890",
+    "verified":true,
+    "passwordConfirm": "1234567890"
+  }
+]
